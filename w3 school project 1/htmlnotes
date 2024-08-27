@@ -1,0 +1,11 @@
+html ------> "hyper text markup language"
+tags ------> "agar kisi bhi cheez ko hum "<" or ">" ke beech likh dete hai to vo ek tag ban jata hai
+        **parts of  tag** 
+            
+            ***paired tags***
+            jaha par closing tag or opening tag dono present ho vo paired tags hote hai
+            example---> <h1></h1>
+            ***unpaired tags***
+
+**Atributes**
+   kisi bhi opening tag ke andar tag ke naam ke baad agar ham kisi bh cheej ko likhte hai to vo attribute ho jata hai

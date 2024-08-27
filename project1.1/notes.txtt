@@ -1,0 +1,6 @@
+tags do prakar ke hote hai 
+1. paired tags jinme opening aur closing tag dono hote hai
+opening tag ----> <html>,<title>
+closing tag ----> </html>,</title>
+2. unpaired tag jinme sirf opening tag hota hai
+jaise ki <br>, <meta> etc.
